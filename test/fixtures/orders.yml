@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  table: one
+  drink: one
+  meal: one
+  payment: MyString
+  total: 9.99
+
+two:
+  table: two
+  drink: two
+  meal: two
+  payment: MyString
+  total: 9.99
